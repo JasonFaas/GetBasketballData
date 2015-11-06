@@ -8,7 +8,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class NetClientGet {
-    // http://localhost:8080/RESTfulExample/json/product/get
     public String getClientCall(String spec) {
 
         try {
