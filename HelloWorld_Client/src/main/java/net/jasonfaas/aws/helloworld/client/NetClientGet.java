@@ -29,8 +29,8 @@ public class NetClientGet {
             System.out.println("Output from Server .... \n");
             StringBuilder stringBuilder = new StringBuilder();
             while ((output = br.readLine()) != null) {
-                System.out.println(output);
-                stringBuilder.append(output);
+//                System.out.println(output);
+                stringBuilder.append(output + "\n");
             }
 
             conn.disconnect();
