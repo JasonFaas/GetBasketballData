@@ -73,17 +73,18 @@ public class PageFilter {
         return tableOfStats;
     }
 
-    private String extraStuff(String boxOfStats) {
-        String noHTMLString = boxOfStats.replaceAll("<th.*?>", "");
+    public String removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(String boxOfStats) {
+        String noHTMLString = boxOfStats;
+        noHTMLString = noHTMLString.replaceAll("</thead>\n<tbody>\n", "");
+        noHTMLString = noHTMLString.replaceAll("</?th.*?>", "");
         noHTMLString = noHTMLString.replaceAll("</?td.*?>", "");
-        noHTMLString = noHTMLString.replaceAll("</thead>\n" + "<tbody>\n", "");
         noHTMLString = noHTMLString.replace("\n  ", ",");
-        noHTMLString = noHTMLString.replace("</th>", "");
         noHTMLString = noHTMLString.replace("\n</tr>", "</tr>");
         return noHTMLString;
     }
 
     static List<String> filterTeamResultsForTitleAnd82Games(String noHTMLString) {
+
         List<String> strings = new ArrayList(Arrays.asList(noHTMLString.split("\n")));
         assert 82 + 82/20 + 1 == strings.size();
         strings.remove(0);
@@ -101,7 +102,9 @@ public class PageFilter {
     public String getFilterRecordFromFullPage(String clientCall) {
         String noHTMLString = tableOfStatsFromEntirePage(clientCall);
 
-        noHTMLString = extraStuff(noHTMLString);
+        System.out.println("ABCD:"+noHTMLString);
+        noHTMLString = removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(noHTMLString);
+        System.out.println("EFGH:"+noHTMLString);
         List<String> strings = filterTeamResultsForTitleAnd82Games(noHTMLString);
         List<String> removedStrings = removeDuplicatesAndOriginal(strings);
         assert 1 == removedStrings.size();
@@ -117,10 +120,12 @@ public class PageFilter {
         assert s1.contains("7,2015-11-06,New_Orleans_Pelicans,121,115");
 
         String s = removedStrings.get(0);
+        System.out.println("Whatthat:"+s);
         String replace = s.replace("<tr class=\"no_ranker thead\">,", "");
         String actual = replace.replaceAll(",,,,,", ",");
         actual = actual.replaceAll(",,,", ",");
         actual = actual.replaceAll("(.*Opp).*", "$1");
+
         assert "G,Date,Opponent,Tm,Opp".equals(actual);
 
         return actual + "\n" + s1;
