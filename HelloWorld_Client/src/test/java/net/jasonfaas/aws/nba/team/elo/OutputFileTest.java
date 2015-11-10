@@ -1,6 +1,6 @@
-package net.jasonfaas.aws.helloworld.client;
+package net.jasonfaas.aws.nba.team.elo;
 
-import net.jasonfaas.aws.helloworld.client.utility.FileReaderAndWriter;
+import net.jasonfaas.aws.nba.team.elo.utility.FileReaderAndWriter;
 import org.junit.Assert;
 import org.junit.Test;
 

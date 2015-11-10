@@ -1,0 +1,1955 @@
+<!DOCTYPE html><html data-version="the-magglio-475" itemscope itemtype="http://schema.org/website" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en"><head><title>2015-16 Atlanta Hawks Schedule and Results | Basketball-Reference.com</title><link rel="dns-prefetch" href="http://d2ft4b0ve1aur1.cloudfront.net" /><link rel="dns-prefetch" href="http://m.bkref.com" />
+<link rel=subresource href="http://d2ft4b0ve1aur1.cloudfront.net/js-475/sr-bbr-min.js.jgz" /><script type="text/javascript">var sr_gzipEnabled = false; var sr_js_loader = new Array();</script><script type="text/javascript" src="http://d2ft4b0ve1aur1.cloudfront.net/js-100/sr.gzipcheck.js.jgz"></script><noscript><link type="text/css" rel="stylesheet" href="http://d2ft4b0ve1aur1.cloudfront.net/css-475/sr-bbr-min.css"></noscript><script type="text/javascript">
+(function () {var sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-475/sr-bbr-min.css';if (sr_gzipEnabled) {sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-475/sr-bbr-min-gz.css';}var head = document.getElementsByTagName("head")[0];if (head) {var scriptStyles = document.createElement("link");scriptStyles.rel = "stylesheet";scriptStyles.type = "text/css";scriptStyles.href = sr_css_file;head.appendChild(scriptStyles);}}());</script><!-- tiles, touch, favicons --><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-152x152-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-144x144-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-120x120-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-114x114-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-76x76-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-72x72-bbr-precomposed.png"><link rel="apple-touch-icon-precomposed" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/apple-touch-icon-bbr-precomposed.png"><link rel=icon href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/favicon_bbr.png"><!--[if IE]><link rel="shortcut icon" href="http://d2ft4b0ve1aur1.cloudfront.net/images-475/favicon_bbr.ico"><![endif]--><meta name="msapplication-TileColor" content="#ffffff"/><meta name="msapplication-TileImage" content="http://d2ft4b0ve1aur1.cloudfront.net/images-475/ms-tile-144-bbr.png" /><link rel=search        type="application/opensearchdescription+xml" href="http://d2ft4b0ve1aur1.cloudfront.net/os-475/opensearch-bbr.xml" title="B-Ref Search"><!--[if lte IE 7 ]><style type="text/css">
+.uni_holder { display: none; }
+</style><![endif]--><!--[if lte IE 6]><style type="text/css">
+.hovermenu,.hovermenu_ajax,.sub_index,#quick_index {display:none!important}
+</style><![endif]-->
+<script type="text/javascript">
+/* * JS Redirection Mobile
+*
+* Developed and presumably Copyright by
+* Sebastiano Armeli-Battana (@sebarmeli) - http://www.sebastianoarmelibattana.com
+* Release under the MIT licence */
+if(!window.SA){window.SA={}}SA.redirection_mobile=function(f){var j=function(g){var b=new Date();b.setTime(b.getTime()+g);return b};var k=function(b){if(!b){return}var i=document.location.search,p=i&&i.substring(1).split("&"),l=0,n=p.length;for(;l<n;l++){var g=p[l],m=g&&g.substring(0,g.indexOf("="));if(m===b){return g.substring(g.indexOf("=")+1,g.length)}}};var d=navigator.userAgent.toLowerCase(),fls="false",tr="true",host=document.location.host,f=f||{},mobile_protocol=f.mobile_scheme?f.mobile_scheme+":":document.location.protocol,mobile_prefix=f.mobile_prefix||"m",mobile_url=f.mobile_url,cookie_hours=f.cookie_hours||1,redirection_param=f.redirection_paramName||"mobile",redirection_param_long=f.redirection_paramName_long||"mobile_long",mobile_host=mobile_url||mobile_prefix+".",queryValue=k(redirection_param),queryValue_long=k(redirection_param_long),isUAMobile=false;if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino|mobile.+firefox/i.test(d)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(d.substr(0,4))){isUAMobile=true}if(queryValue_long===fls){if(window.localStorage){window.localStorage.setItem(redirection_param_long,fls)}else{document.cookie=redirection_param+"="+h+";expires="+j(3600*1000*24*31*cookie_hours).toUTCString()}}else{if((queryValue_long===tr)||(queryValue===tr)){if(window.localStorage){window.localStorage.setItem(redirection_param_long,tr)}else{document.cookie=redirection_param+"="+h+";expires="+j(-3600*1000*cookie_hours).toUTCString()}if(window.sessionStorage){window.sessionStorage.setItem(redirection_param,tr)}else{document.cookie=redirection_param+"="+h+";expires="+j(-3600*1000*cookie_hours*7*24*31).toUTCString()}}else{if(document.referrer.indexOf(mobile_host)>=0||queryValue===fls){if(window.sessionStorage){window.sessionStorage.setItem(redirection_param,fls)}else{document.cookie=redirection_param+"="+h+";expires="+j(3600*1000*cookie_hours).toUTCString()}}}}var a=(window.sessionStorage)?(window.sessionStorage.getItem(redirection_param)===fls):false,e=(window.localStorage)?(window.localStorage.getItem(redirection_param_long)===fls):false,c=document.cookie?(document.cookie.indexOf(redirection_param)>=0):false;if(isUAMobile&&!(c||a||e)){document.location.href=mobile_protocol+"//"+mobile_host}};SA.redirection_mobile({mobile_url:"m.bkref.com/m?p=XXteamsXXATLXX2016_games.html",redirection_paramName:"mobile",redirection_paramName_long:"mobile_long",cookie_hours:6});</script><!--  ASYNCHRONOUS:googletag --><script type='text/javascript'>
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement('script');gads.async = true;gads.type = 'text/javascript';var useSSL = 'https:' == document.location.protocol;gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';var node = document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads, node);})();</script><meta name=keywords content="2015-16, Atlanta Hawks, schedule, results, games, scores"><meta property="fb:admins"     content="34208645"><meta property="fb:page_id"    content="35120246404"><meta property="og:description" content="Stats, Schedules, Rosters, and much more"><meta property="og:title" content="2015-16 Atlanta Hawks"><meta property="og:url" content="http://www.basketball-reference.com/teams/ATL/2016.html"><meta property="og:type" content="sports_team"><meta itemprop=name content="2015-16 Atlanta Hawks"><meta itemprop=description content="Stats, Schedules, Rosters, and much more"><meta property="og:site_name"  content="Basketball-Reference.com"><meta property="og:image"      content="http://d2ft4b0ve1aur1.cloudfront.net/images-434/apple-touch-icon-152x152-bbr-precomposed.png"><meta itemprop=image         content="http://d2ft4b0ve1aur1.cloudfront.net/images-434/apple-touch-icon-152x152-bbr-precomposed.png"><meta name="twitter:card"         content="summary"><meta name="twitter:site"         content="@bball_ref"><meta name="twitter:creator"      content="@bball_ref"><meta name="twitter:title"        content="2015-16 Atlanta Hawks Schedule and Results | Basketball-Reference.com"><meta name="twitter:description"  content="Stats and results for players, teams, leaders and scores from the first game ever to yesterday"><meta name="twitter:image"        content=""><meta name="twitter:image:width"  content=""><meta name="twitter:image:height" content=""><meta name="twitter:url"          content="http://www.basketball-reference.com"><meta name="twitter:domain"       content="Basketball-Reference.com"></head><body onload=""><div id=page_container><div id=top_nav><!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_SI_3CWPKrI10k7ANBX","//zncvfm2dltswdzell-farris.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_3CWPKrI10k7ANBX&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='SI_3CWPKrI10k7ANBX'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+<div id="sr_site_dir">
+ <a href="http://www.sports-reference.com">Sports-Reference</a>:
+ <a href="http://www.baseball-reference.com">Baseball</a> &#183;
+ <span class="bold_text">Basketball</span>
+(<a href="http://www.sports-reference.com/cbb/">college</a>) &#183;
+ <a href="http://www.pro-football-reference.com">Football</a>
+(<a href="http://www.sports-reference.com/cfb/">college</a>) &#183;
+ <a href="http://www.hockey-reference.com/">Hockey</a> &#183;
+ <a href="http://www.sports-reference.com/olympics/">Olympics</a> &#183;
+ <a href="http://www.sports-reference.com/blog/">S-R Blog</a> &#183;
+ <a href="http://www.sports-reference.com/feedback/">Question or Comment?</a>
+</div><!-- div#sr_site_dir -->
+
+<div id=site_header>
+ <div id=sr_header>
+  <div id=sr_header_right_float class="float_right clear_right">
+   <div class="float_right">
+    <div id="welcome" class="margin0 padding_bottom_half float_right poptip" tip="Review the details of your account"><span class="greeting"></span><a class="acct_external" href="/my/auth.cgi"></a>&nbsp;</div>
+    <div class="clear_both padding_bottom_half">
+     <span class="badge ui-corner-all         colors         like_a logged_out"  onclick="return sr_login_popup();" id="login_placeholder" style="display:none;"                                      >LOGIN<span id="loginform_container"></span></span>
+     <span class="badge ui-corner-all         colors         like_a logged_in"   onclick="return sr_logout();"                                                                                        >LOGOUT</span>
+     <span class="badge ui-corner-all tooltip disabled_badge like_a is_sponsor"  onclick="document.location.href='/my/auth.cgi?do=sponsor'"          tip="Sponsor a page on Basketball-Reference.com" >SPONSOR</span>
+     <span class="badge ui-corner-all tooltip disabled_badge like_a ad_free"     onclick="document.location.href='/my/auth.cgi?do=ad_free_browsing'" tip="Surf Sports Reference Ad Free">AD FREE</span>
+    <span>&nbsp;</span>
+    </div>
+   </div>
+
+   <div class="clearfix float_right clear_both">
+    <div class="padding_left_half float_right"><a class="sprite-twitter" title="Follow us on Twitter" href="http://twitter.com/bball_ref"></a><a class="sprite-facebook" title="Become a Fan on FaceBook" href="http://www.facebook.com/Basketball.Reference"></a><a class="sprite-youtube" title="Sports Reference Instructional Videos" href="http://www.youtube.com/user/sportsreference"></a></div>
+
+    <div class=float_right>
+     <form  id="f" name="f" action="/search/search.fcgi">
+      <input x-webkit-speech type="search" placeholder="click 'Tips' for shortcuts" id="search" name="search" class="search long typeahead">
+      <input type="hidden" name="results" value="" data-search-id>
+      <input type=submit value="Search" class="submit">
+      <a class="padding_left_half small_text" href="/about/findstuff.shtml?lid=homepage_tips">Tips</a>
+     </form>
+    </div>
+   </div>
+
+  </div><!-- div#sr_header_right_float -->
+ </div><!-- div#sr_header -->
+
+ <div class="float_left">
+  <div class="clear_left float_left padding_top padding_bottom_half"><a href="/?lid=homepage_logo"><img src="http://d2ft4b0ve1aur1.cloudfront.net/images-370/Basketball-Ref.png" width=464 height=73 border="0" alt="Basketball-Reference.com"></a>
+</div>
+ </div>
+
+</div><!-- div#site_header -->
+
+
+<div id=quick_index><ul class="hovermenu_ajax navbar"><li><a href="/play-index/">play index</a><ul class=li_margin id="header_playindex"></ul></li><li><a href="/boxscores/">box scores</a><ul id=header_boxscores></ul></li><li><a href="/players/">players</a><ul class=li_margin id="header_players"></ul></li><li class=active><a href="/teams/">teams</a><ul id=header_teams></ul></li><li><a href="/leagues/">seasons</a><ul class=li_margin id="header_leagues"></ul></li><li><a href="/coaches/">coaches</a><ul class=li_margin id="header_coaches"></ul></li><li><a href="/leaders/">leaders</a><ul class=li_margin id="header_leaders"></ul></li><li><a href="/awards/">awards</a><ul class=li_margin id="header_awards"></ul></li><li><a href="/playoffs/">playoffs</a><ul class=li_margin id="header_playoffs"></ul></li><li><a href="/draft/">draft</a><ul class=li_margin id="header_draft"></ul></li><li><a href="/euro/">euro</a><ul class=li_margin id="header_euro"></ul></li><li><a href="/dleague/">d-lg</a><ul class=li_margin id="header_dlg"></ul></li><li><a href="/olympics/">olympics</a><ul class=li_margin id="header_olympics"></ul></li><li><a href="#">more [+]</a><ul class=li_margin id="header_more_links"></ul></li></ul></div><!-- div#quick_index --><div id=you_are_here><p class=padding_left0><a class=mobile_link href="http://m.bkref.com/m?p=XXteamsXXATLXX2016.html">Mobile Site</a> <span class=bold_text>You Are Here</span> &gt; <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop=url href="/"><span itemprop=title>BBR Home</span></a></span> &gt; <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop=url href="/teams/"><span itemprop=title>Teams</span></a></span> &gt; <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop=url href="/teams/ATL/"><span itemprop=title>Atlanta Hawks</span></a></span> &gt; <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class=bold_text><span itemprop=title>2015-16 Schedule and Results</span></span></span></p></div><!-- div#quick_index --><div class="site_news"><p><span class="bold_text">News:</span> <span class="poptip" tip="&#160; We've been working recently to make our European stats better and easier to access. Toward that end, I wanted to introduce a few recently-added features that make it easier to find detailed European league player and team stats, standings, and game logs. In case you haven't spent time on our European league sites, know that [&#8230;]">s-r blog:<a onClick="try { pageTracker._trackEvent('blog','click','area-yah'); } catch (err) {};"
+ href="http://www.sports-reference.com/blog/2015/05/several-new-european-stats-features/">Several New European Stats Features</a> <span class="small_text"></span></span></p></div>
+</div><!-- div#top_nav -->
+<div id="info_box" class="">
+<!-- div.#sr_bbr_300x250_atf1.advert300x250 -->
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/117033896/sr_bbr_300x250_atf', [300, 250], 'sr_bbr_300x250_atf1').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+<!-- /117033896/sr_bbr_300x250_atf -->
+<div class="clear_both x_small_text align_right"><a href="/my/auth.cgi?do=ad_free_browsing">Support us without the ads? Go Ad-Free!</a></div>
+<div id="sr_bbr_300x250_atf1" class="advert300x250">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('sr_bbr_300x250_atf1'); });
+</script>
+</div>
+<h1>2015-16 Atlanta Hawks Schedule and Results</h1>
+<p class='padding_top_half padding_bottom_half small_text bold_text'><a href="/teams/ATL/">Franchise Encyclopedia</a>&nbsp;&nbsp;&nbsp;&#9642;&nbsp;&nbsp;&nbsp;<a href="/teams/ATL/2015_games.html">&lt;&nbsp;2014-15 Atlanta Hawks</a></p>
+<div class="social_media">
+<div class="float_left"><span id="fb-root"></span><fb:like width="200" show_faces="0" height="35" ref="team_like"></fb:like></div>
+<div class="float_left"><div class="g-plusone" data-size="medium" data-annotation="inline" data-width="150"></div></div>
+</div>
+<div class="clearfix freeze_bar margin_bottom margin_left sub_index">
+<ul class="hovermenu large_text menu">
+<li><a href="/teams/ATL/">Seasons<span class="arrowsprite_bottom"></span></a>
+<ul>
+<li class="narrow small_text active"><a href="/teams/ATL/2016.html">2015-16</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2015.html">2014-15</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2014.html">2013-14</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2013.html">2012-13</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2012.html">2011-12</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2011.html">2010-11</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2010.html">2009-10</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2009.html">2008-09</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2008.html">2007-08</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2007.html">2006-07</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2006.html">2005-06</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2005.html">2004-05</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2004.html">2003-04</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2003.html">2002-03</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2002.html">2001-02</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2001.html">2000-01</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/2000.html">1999-00</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1999.html">1998-99</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1998.html">1997-98</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1997.html">1996-97</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1996.html">1995-96</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1995.html">1994-95</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1994.html">1993-94</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1993.html">1992-93</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1992.html">1991-92</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1991.html">1990-91</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1990.html">1989-90</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1989.html">1988-89</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1988.html">1987-88</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1987.html">1986-87</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1986.html">1985-86</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1985.html">1984-85</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1984.html">1983-84</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1983.html">1982-83</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1982.html">1981-82</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1981.html">1980-81</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1980.html">1979-80</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1979.html">1978-79</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1978.html">1977-78</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1977.html">1976-77</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1976.html">1975-76</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1975.html">1974-75</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1974.html">1973-74</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1973.html">1972-73</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1972.html">1971-72</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1971.html">1970-71</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1970.html">1969-70</a></li>
+<li class="narrow small_text"><a href="/teams/ATL/1969.html">1968-69</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1968.html">1967-68</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1967.html">1966-67</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1966.html">1965-66</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1965.html">1964-65</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1964.html">1963-64</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1963.html">1962-63</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1962.html">1961-62</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1961.html">1960-61</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1960.html">1959-60</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1959.html">1958-59</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1958.html">1957-58</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1957.html">1956-57</a></li>
+<li class="narrow small_text"><a href="/teams/STL/1956.html">1955-56</a></li>
+<li class="narrow small_text"><a href="/teams/MLH/1955.html">1954-55</a></li>
+<li class="narrow small_text"><a href="/teams/MLH/1954.html">1953-54</a></li>
+<li class="narrow small_text"><a href="/teams/MLH/1953.html">1952-53</a></li>
+<li class="narrow small_text"><a href="/teams/MLH/1952.html">1951-52</a></li>
+<li class="narrow small_text"><a href="/teams/TRI/1951.html">1950-51</a></li>
+<li class="narrow small_text"><a href="/teams/TRI/1950.html">1949-50</a></li>
+</ul>
+</li>
+<li><a href="/teams/ATL/clubhouse.html">Clubhouse</a></li>
+<li><a href="/contracts/ATL.html">Payroll</a></li>
+<li><a href="/teams/ATL/2016.html">Roster &amp; Stats<span class="arrowsprite_bottom"></span></a>
+<ul>
+<li><a href="/teams/ATL/2016.html#all_roster">Roster</a></li>
+<li><a href="/teams/ATL/2016.html#all_team_stats">Team &amp; Opponent</a></li>
+<li><a href="/teams/ATL/2016.html#all_team_misc">Team Miscellaneous</a></li>
+<li><a href="/teams/ATL/2016.html#all_totals">Totals</a></li>
+<li><a href="/teams/ATL/2016.html#all_per_game">Per Game</a></li>
+<li><a href="/teams/ATL/2016.html#all_per_minute">Per 36 Minutes</a></li>
+<li><a href="/teams/ATL/2016.html#all_advanced">Advanced</a></li></ul>
+</li>
+<li class="active"><a href="/teams/ATL/2016_games.html">Schedule &amp; Results</a></li>
+<li><a href="/teams/ATL/2016_transactions.html">Transactions</a></li>
+<li><span class="like_a">Other<span class="arrowsprite_bottom"></span></span>
+<ul>
+<li><a href="/teams/ATL/2016/gamelog/">Game Log</a></li>
+<li><a href="/teams/ATL/2016/splits/">Splits</a></li>
+<li><a href="/teams/ATL/2016/lineups/">Lineups</a></li>
+<li><a href="/teams/ATL/2016/on-off/">On/Off</a></li>
+<li><a href="/teams/ATL/2016_start.html">Starting Lineups</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p><span class="bold_text">Record:</span> 7-1, 1st in <a href="/leagues/NBA_2016.html">NBA</a> Southeast Division (<a href="/teams/ATL/2016_games.html">Schedule and Results</a>)
+<br><span class="bold_text">Coach:</span> <a href="/coaches/budenmi99c.html">Mike Budenholzer</a> (7-1)
+<p><span class="bold_text">PTS/G:</span> 103.9 (6th of 30)&nbsp;&#9642;&nbsp;<span class="bold_text">Opp PTS/G:</span> 98.2 (10th of 30)<br><a href="/about/glossary.html#srs"><span class="bold_text">SRS</span></a>: 4.56 (11th of 30)&nbsp;&#9642;&nbsp;<a href="/about/glossary.html#pace"><span class="bold_text">Pace</span></a>: 97.5 (15th of 30)<br><a href="/about/glossary.html#off_rtg"><span class="bold_text">Off Rtg</span></a>: 106.6 (5th of 30)&nbsp;&#9642;&nbsp;<a href="/about/glossary.html#def_rtg"><span class="bold_text">Def Rtg</span></a>: 100.8 (11th of 30)
+<br><a href="/about/glossary.html#wins_pyth"><span class="bold_text">Expected W-L</span></a>: 5-3 (6th of 30)
+<p><span class="bold_text">Arena:</span> Philips Arena&nbsp;&#9642;&nbsp;<span class="bold_text">Attendance:</span> 68,302 (8th of 30)</div>
+
+<div><div class="float_left"  style="margin-bottom:32px"><!-- div.#sr_bbr_728x90_atf1.advert728x90 -->
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/117033896/sr_bbr_728x90_atf', [728, 90], 'sr_bbr_728x90_atf1').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+<!-- /117033896/sr_bbr_728x90_atf -->
+<div class="clear_both x_small_text align_right"><a href="/my/auth.cgi?do=ad_free_browsing">Support us without the ads? Go Ad-Free!</a></div>
+<div id="sr_bbr_728x90_atf1" class="advert728x90">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('sr_bbr_728x90_atf1'); });
+</script>
+</div></div><div id="sponsor_no" class="sponsor_no">
+  <p>Like this page? <strong><a href="/my/auth.cgi?do=sponsor&ID=bbr_ATL_2016">Sponsor</a></strong> it for $10.  Your message will replace this ad.</p>
+</div>
+</div>
+
+<div id="page_content">
+<div class="stw" id="all_schedule">
+<div class="table_heading">
+<h2 data-mobile-header="" style="">Regular Season</h2>
+<div class="table_heading_text"></div>
+</div>
+<div class="table_container" id="div_teams_games">
+<table data-freeze="8" class="sortable  stats_table" id="teams_games">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="g" align="right"  class="tooltip sort_default_asc"  tip="Games">G</th>
+  <th data-stat="date_game" align="left"  class="tooltip sort_default_asc" >Date</th>
+  <th data-stat="game_start_time" align="CENTER"  class="tooltip" ></th>
+  <th data-stat="network" align="CENTER"  class="tooltip" ></th>
+  <th data-stat="box_score_text" align="center"  class="tooltip sort_default_asc" ></th>
+  <th data-stat="game_location" align="center"  class="tooltip" ></th>
+  <th data-stat="opp_name" align="left"  class="tooltip sort_default_asc" >Opponent</th>
+  <th data-stat="game_result" align="center"  class="tooltip" ></th>
+  <th data-stat="overtimes" align="center"  class="tooltip" ></th>
+  <th data-stat="pts" align="right"  class="tooltip"  tip="Points">Tm</th>
+  <th data-stat="opp_pts" align="right"  class="tooltip"  tip="Opponent Points">Opp</th>
+  <th data-stat="wins" align="right"  class="tooltip"  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class="tooltip"  tip="Losses">L</th>
+  <th data-stat="game_streak" align="left"  class="tooltip" >Streak</th>
+  <th data-stat="game_remarks" align="left"  class="tooltip sort_default_asc show_partial_when_sorting" >Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="right" >1</td>
+   <td align="left"  csk="2015-10-27"><a href="/boxscores/index.cgi?month=10&amp;day=27&amp;year=2015">Tue, Oct 27, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201510270ATL.html">Box Score</a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="DET2015-10-27"><a href="/teams/DET/2016.html">Detroit Pistons</a></td>
+   <td align="center" >L</td>
+   <td align="center" ></td>
+   <td align="right" >94</td>
+   <td align="right" >106</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="left" >L 1</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >2</td>
+   <td align="left"  csk="2015-10-29"><a href="/boxscores/index.cgi?month=10&amp;day=29&amp;year=2015">Thu, Oct 29, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201510290NYK.html">Box Score</a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="NYK2015-10-29"><a href="/teams/NYK/2016.html">New York Knicks</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >112</td>
+   <td align="right" >101</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="left" >W 1</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >3</td>
+   <td align="left"  csk="2015-10-30"><a href="/boxscores/index.cgi?month=10&amp;day=30&amp;year=2015">Fri, Oct 30, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201510300ATL.html">Box Score</a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="CHO2015-10-30"><a href="/teams/CHO/2016.html">Charlotte Hornets</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >97</td>
+   <td align="right" >94</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="left" >W 2</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >4</td>
+   <td align="left"  csk="2015-11-01"><a href="/boxscores/index.cgi?month=11&amp;day=1&amp;year=2015">Sun, Nov 1, 2015</a></td>
+   <td align="" >2:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511010CHO.html">Box Score</a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CHO2015-11-01"><a href="/teams/CHO/2016.html">Charlotte Hornets</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >94</td>
+   <td align="right" >92</td>
+   <td align="right" >3</td>
+   <td align="right" >1</td>
+   <td align="left" >W 3</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >5</td>
+   <td align="left"  csk="2015-11-03"><a href="/boxscores/index.cgi?month=11&amp;day=3&amp;year=2015">Tue, Nov 3, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511030MIA.html">Box Score</a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="MIA2015-11-03"><a href="/teams/MIA/2016.html">Miami Heat</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >98</td>
+   <td align="right" >92</td>
+   <td align="right" >4</td>
+   <td align="right" >1</td>
+   <td align="left" >W 4</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >6</td>
+   <td align="left"  csk="2015-11-04"><a href="/boxscores/index.cgi?month=11&amp;day=4&amp;year=2015">Wed, Nov 4, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511040ATL.html">Box Score</a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="BRK2015-11-04"><a href="/teams/BRK/2016.html">Brooklyn Nets</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >101</td>
+   <td align="right" >87</td>
+   <td align="right" >5</td>
+   <td align="right" >1</td>
+   <td align="left" >W 5</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >7</td>
+   <td align="left"  csk="2015-11-06"><a href="/boxscores/index.cgi?month=11&amp;day=6&amp;year=2015">Fri, Nov 6, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511060NOP.html">Box Score</a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="NOP2015-11-06"><a href="/teams/NOP/2016.html">New Orleans Pelicans</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >121</td>
+   <td align="right" >115</td>
+   <td align="right" >6</td>
+   <td align="right" >1</td>
+   <td align="left" >W 6</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >8</td>
+   <td align="left"  csk="2015-11-07"><a href="/boxscores/index.cgi?month=11&amp;day=7&amp;year=2015">Sat, Nov 7, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511070ATL.html">Box Score</a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="WAS2015-11-07"><a href="/teams/WAS/2016.html">Washington Wizards</a></td>
+   <td align="center" >W</td>
+   <td align="center" ></td>
+   <td align="right" >114</td>
+   <td align="right" >99</td>
+   <td align="right" >7</td>
+   <td align="right" >1</td>
+   <td align="left" >W 7</td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >9</td>
+   <td align="left"  csk="2015-11-09"><a href="/boxscores/index.cgi?month=11&amp;day=9&amp;year=2015">Mon, Nov 9, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511090ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MIN2015-11-09"><a href="/teams/MIN/2016.html">Minnesota Timberwolves</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >10</td>
+   <td align="left"  csk="2015-11-11"><a href="/boxscores/index.cgi?month=11&amp;day=11&amp;year=2015">Wed, Nov 11, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511110ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="NOP2015-11-11"><a href="/teams/NOP/2016.html">New Orleans Pelicans</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >11</td>
+   <td align="left"  csk="2015-11-13"><a href="/boxscores/index.cgi?month=11&amp;day=13&amp;year=2015">Fri, Nov 13, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511130BOS.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="BOS2015-11-13"><a href="/teams/BOS/2016.html">Boston Celtics</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >12</td>
+   <td align="left"  csk="2015-11-15"><a href="/boxscores/index.cgi?month=11&amp;day=15&amp;year=2015">Sun, Nov 15, 2015</a></td>
+   <td align="" >6:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511150ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="UTA2015-11-15"><a href="/teams/UTA/2016.html">Utah Jazz</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >13</td>
+   <td align="left"  csk="2015-11-17"><a href="/boxscores/index.cgi?month=11&amp;day=17&amp;year=2015">Tue, Nov 17, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511170BRK.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="BRK2015-11-17"><a href="/teams/BRK/2016.html">Brooklyn Nets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >14</td>
+   <td align="left"  csk="2015-11-18"><a href="/boxscores/index.cgi?month=11&amp;day=18&amp;year=2015">Wed, Nov 18, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511180ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="SAC2015-11-18"><a href="/teams/SAC/2016.html">Sacramento Kings</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >15</td>
+   <td align="left"  csk="2015-11-21"><a href="/boxscores/index.cgi?month=11&amp;day=21&amp;year=2015">Sat, Nov 21, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511210CLE.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CLE2015-11-21"><a href="/teams/CLE/2016.html">Cleveland Cavaliers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >16</td>
+   <td align="left"  csk="2015-11-24"><a href="/boxscores/index.cgi?month=11&amp;day=24&amp;year=2015">Tue, Nov 24, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511240ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="BOS2015-11-24"><a href="/teams/BOS/2016.html">Boston Celtics</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >17</td>
+   <td align="left"  csk="2015-11-25"><a href="/boxscores/index.cgi?month=11&amp;day=25&amp;year=2015">Wed, Nov 25, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511250MIN.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="MIN2015-11-25"><a href="/teams/MIN/2016.html">Minnesota Timberwolves</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >18</td>
+   <td align="left"  csk="2015-11-27"><a href="/boxscores/index.cgi?month=11&amp;day=27&amp;year=2015">Fri, Nov 27, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511270MEM.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="MEM2015-11-27"><a href="/teams/MEM/2016.html">Memphis Grizzlies</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >19</td>
+   <td align="left"  csk="2015-11-28"><a href="/boxscores/index.cgi?month=11&amp;day=28&amp;year=2015">Sat, Nov 28, 2015</a></td>
+   <td align="" >8:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511280SAS.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="SAS2015-11-28"><a href="/teams/SAS/2016.html">San Antonio Spurs</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >20</td>
+   <td align="left"  csk="2015-11-30"><a href="/boxscores/index.cgi?month=11&amp;day=30&amp;year=2015">Mon, Nov 30, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201511300ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="OKC2015-11-30"><a href="/teams/OKC/2016.html">Oklahoma City Thunder</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="g" align="right"  class=" sort_default_asc"  tip="Games">G</th>
+  <th data-stat="date_game" align="left"  class=" sort_default_asc" >Date</th>
+  <th data-stat="game_start_time" align="CENTER"  class="" ></th>
+  <th data-stat="network" align="CENTER"  class="" ></th>
+  <th data-stat="box_score_text" align="center"  class=" sort_default_asc" ></th>
+  <th data-stat="game_location" align="center"  class="" ></th>
+  <th data-stat="opp_name" align="left"  class=" sort_default_asc" >Opponent</th>
+  <th data-stat="game_result" align="center"  class="" ></th>
+  <th data-stat="overtimes" align="center"  class="" ></th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">Tm</th>
+  <th data-stat="opp_pts" align="right"  class=""  tip="Opponent Points">Opp</th>
+  <th data-stat="wins" align="right"  class=""  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class=""  tip="Losses">L</th>
+  <th data-stat="game_streak" align="left"  class="" >Streak</th>
+  <th data-stat="game_remarks" align="left"  class=" sort_default_asc show_partial_when_sorting" >Notes</th>
+</tr>
+<tr  class="">
+   <td align="right" >21</td>
+   <td align="left"  csk="2015-12-02"><a href="/boxscores/index.cgi?month=12&amp;day=2&amp;year=2015">Wed, Dec 2, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512020ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="TOR2015-12-02"><a href="/teams/TOR/2016.html">Toronto Raptors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >22</td>
+   <td align="left"  csk="2015-12-04"><a href="/boxscores/index.cgi?month=12&amp;day=4&amp;year=2015">Fri, Dec 4, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512040ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="LAL2015-12-04"><a href="/teams/LAL/2016.html">Los Angeles Lakers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >23</td>
+   <td align="left"  csk="2015-12-09"><a href="/boxscores/index.cgi?month=12&amp;day=9&amp;year=2015">Wed, Dec 9, 2015</a></td>
+   <td align="" >9:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512090DAL.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="DAL2015-12-09"><a href="/teams/DAL/2016.html">Dallas Mavericks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >24</td>
+   <td align="left"  csk="2015-12-10"><a href="/boxscores/index.cgi?month=12&amp;day=10&amp;year=2015">Thu, Dec 10, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512100OKC.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="OKC2015-12-10"><a href="/teams/OKC/2016.html">Oklahoma City Thunder</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >25</td>
+   <td align="left"  csk="2015-12-12"><a href="/boxscores/index.cgi?month=12&amp;day=12&amp;year=2015">Sat, Dec 12, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512120ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="SAS2015-12-12"><a href="/teams/SAS/2016.html">San Antonio Spurs</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >26</td>
+   <td align="left"  csk="2015-12-14"><a href="/boxscores/index.cgi?month=12&amp;day=14&amp;year=2015">Mon, Dec 14, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512140ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MIA2015-12-14"><a href="/teams/MIA/2016.html">Miami Heat</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >27</td>
+   <td align="left"  csk="2015-12-16"><a href="/boxscores/index.cgi?month=12&amp;day=16&amp;year=2015">Wed, Dec 16, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512160ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="PHI2015-12-16"><a href="/teams/PHI/2016.html">Philadelphia 76ers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >28</td>
+   <td align="left"  csk="2015-12-18"><a href="/boxscores/index.cgi?month=12&amp;day=18&amp;year=2015">Fri, Dec 18, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512180BOS.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="BOS2015-12-18"><a href="/teams/BOS/2016.html">Boston Celtics</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >29</td>
+   <td align="left"  csk="2015-12-20"><a href="/boxscores/index.cgi?month=12&amp;day=20&amp;year=2015">Sun, Dec 20, 2015</a></td>
+   <td align="" >6:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512200ORL.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="ORL2015-12-20"><a href="/teams/ORL/2016.html">Orlando Magic</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >30</td>
+   <td align="left"  csk="2015-12-21"><a href="/boxscores/index.cgi?month=12&amp;day=21&amp;year=2015">Mon, Dec 21, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512210ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="POR2015-12-21"><a href="/teams/POR/2016.html">Portland Trail Blazers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >31</td>
+   <td align="left"  csk="2015-12-23"><a href="/boxscores/index.cgi?month=12&amp;day=23&amp;year=2015">Wed, Dec 23, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512230ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="DET2015-12-23"><a href="/teams/DET/2016.html">Detroit Pistons</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >32</td>
+   <td align="left"  csk="2015-12-26"><a href="/boxscores/index.cgi?month=12&amp;day=26&amp;year=2015">Sat, Dec 26, 2015</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512260ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="NYK2015-12-26"><a href="/teams/NYK/2016.html">New York Knicks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >33</td>
+   <td align="left"  csk="2015-12-28"><a href="/boxscores/index.cgi?month=12&amp;day=28&amp;year=2015">Mon, Dec 28, 2015</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512280IND.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="IND2015-12-28"><a href="/teams/IND/2016.html">Indiana Pacers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >34</td>
+   <td align="left"  csk="2015-12-29"><a href="/boxscores/index.cgi?month=12&amp;day=29&amp;year=2015">Tue, Dec 29, 2015</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201512290HOU.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="HOU2015-12-29"><a href="/teams/HOU/2016.html">Houston Rockets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >35</td>
+   <td align="left"  csk="2016-01-03"><a href="/boxscores/index.cgi?month=1&amp;day=3&amp;year=2016">Sun, Jan 3, 2016</a></td>
+   <td align="" >3:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601030NYK.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="NYK2016-01-03"><a href="/teams/NYK/2016.html">New York Knicks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >36</td>
+   <td align="left"  csk="2016-01-05"><a href="/boxscores/index.cgi?month=1&amp;day=5&amp;year=2016">Tue, Jan 5, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601050ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="NYK2016-01-05"><a href="/teams/NYK/2016.html">New York Knicks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >37</td>
+   <td align="left"  csk="2016-01-07"><a href="/boxscores/index.cgi?month=1&amp;day=7&amp;year=2016">Thu, Jan 7, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601070PHI.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="PHI2016-01-07"><a href="/teams/PHI/2016.html">Philadelphia 76ers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >38</td>
+   <td align="left"  csk="2016-01-09"><a href="/boxscores/index.cgi?month=1&amp;day=9&amp;year=2016">Sat, Jan 9, 2016</a></td>
+   <td align="" >5:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601090ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="CHI2016-01-09"><a href="/teams/CHI/2016.html">Chicago Bulls</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >39</td>
+   <td align="left"  csk="2016-01-13"><a href="/boxscores/index.cgi?month=1&amp;day=13&amp;year=2016">Wed, Jan 13, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601130CHO.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CHO2016-01-13"><a href="/teams/CHO/2016.html">Charlotte Hornets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >40</td>
+   <td align="left"  csk="2016-01-15"><a href="/boxscores/index.cgi?month=1&amp;day=15&amp;year=2016">Fri, Jan 15, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601150MIL.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="MIL2016-01-15"><a href="/teams/MIL/2016.html">Milwaukee Bucks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="g" align="right"  class=" sort_default_asc"  tip="Games">G</th>
+  <th data-stat="date_game" align="left"  class=" sort_default_asc" >Date</th>
+  <th data-stat="game_start_time" align="CENTER"  class="" ></th>
+  <th data-stat="network" align="CENTER"  class="" ></th>
+  <th data-stat="box_score_text" align="center"  class=" sort_default_asc" ></th>
+  <th data-stat="game_location" align="center"  class="" ></th>
+  <th data-stat="opp_name" align="left"  class=" sort_default_asc" >Opponent</th>
+  <th data-stat="game_result" align="center"  class="" ></th>
+  <th data-stat="overtimes" align="center"  class="" ></th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">Tm</th>
+  <th data-stat="opp_pts" align="right"  class=""  tip="Opponent Points">Opp</th>
+  <th data-stat="wins" align="right"  class=""  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class=""  tip="Losses">L</th>
+  <th data-stat="game_streak" align="left"  class="" >Streak</th>
+  <th data-stat="game_remarks" align="left"  class=" sort_default_asc show_partial_when_sorting" >Notes</th>
+</tr>
+<tr  class="">
+   <td align="right" >41</td>
+   <td align="left"  csk="2016-01-16"><a href="/boxscores/index.cgi?month=1&amp;day=16&amp;year=2016">Sat, Jan 16, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601160ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="BRK2016-01-16"><a href="/teams/BRK/2016.html">Brooklyn Nets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >42</td>
+   <td align="left"  csk="2016-01-18"><a href="/boxscores/index.cgi?month=1&amp;day=18&amp;year=2016">Mon, Jan 18, 2016</a></td>
+   <td align="" >5:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601180ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="ORL2016-01-18"><a href="/teams/ORL/2016.html">Orlando Magic</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >43</td>
+   <td align="left"  csk="2016-01-20"><a href="/boxscores/index.cgi?month=1&amp;day=20&amp;year=2016">Wed, Jan 20, 2016</a></td>
+   <td align="" >10:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601200POR.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="POR2016-01-20"><a href="/teams/POR/2016.html">Portland Trail Blazers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >44</td>
+   <td align="left"  csk="2016-01-21"><a href="/boxscores/index.cgi?month=1&amp;day=21&amp;year=2016">Thu, Jan 21, 2016</a></td>
+   <td align="" >10:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601210SAC.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="SAC2016-01-21"><a href="/teams/SAC/2016.html">Sacramento Kings</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >45</td>
+   <td align="left"  csk="2016-01-23"><a href="/boxscores/index.cgi?month=1&amp;day=23&amp;year=2016">Sat, Jan 23, 2016</a></td>
+   <td align="" >9:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601230PHO.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="PHO2016-01-23"><a href="/teams/PHO/2016.html">Phoenix Suns</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >46</td>
+   <td align="left"  csk="2016-01-25"><a href="/boxscores/index.cgi?month=1&amp;day=25&amp;year=2016">Mon, Jan 25, 2016</a></td>
+   <td align="" >9:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601250DEN.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="DEN2016-01-25"><a href="/teams/DEN/2016.html">Denver Nuggets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >47</td>
+   <td align="left"  csk="2016-01-27"><a href="/boxscores/index.cgi?month=1&amp;day=27&amp;year=2016">Wed, Jan 27, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601270ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="LAC2016-01-27"><a href="/teams/LAC/2016.html">Los Angeles Clippers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >48</td>
+   <td align="left"  csk="2016-01-28"><a href="/boxscores/index.cgi?month=1&amp;day=28&amp;year=2016">Thu, Jan 28, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601280IND.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="IND2016-01-28"><a href="/teams/IND/2016.html">Indiana Pacers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >49</td>
+   <td align="left"  csk="2016-01-31"><a href="/boxscores/index.cgi?month=1&amp;day=31&amp;year=2016">Sun, Jan 31, 2016</a></td>
+   <td align="" >6:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201601310MIA.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="MIA2016-01-31"><a href="/teams/MIA/2016.html">Miami Heat</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >50</td>
+   <td align="left"  csk="2016-02-01"><a href="/boxscores/index.cgi?month=2&amp;day=1&amp;year=2016">Mon, Feb 1, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602010ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="DAL2016-02-01"><a href="/teams/DAL/2016.html">Dallas Mavericks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >51</td>
+   <td align="left"  csk="2016-02-03"><a href="/boxscores/index.cgi?month=2&amp;day=3&amp;year=2016">Wed, Feb 3, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602030PHI.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="PHI2016-02-03"><a href="/teams/PHI/2016.html">Philadelphia 76ers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >52</td>
+   <td align="left"  csk="2016-02-05"><a href="/boxscores/index.cgi?month=2&amp;day=5&amp;year=2016">Fri, Feb 5, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602050ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="IND2016-02-05"><a href="/teams/IND/2016.html">Indiana Pacers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >53</td>
+   <td align="left"  csk="2016-02-07"><a href="/boxscores/index.cgi?month=2&amp;day=7&amp;year=2016">Sun, Feb 7, 2016</a></td>
+   <td align="" >1:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602070ORL.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="ORL2016-02-07"><a href="/teams/ORL/2016.html">Orlando Magic</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >54</td>
+   <td align="left"  csk="2016-02-08"><a href="/boxscores/index.cgi?month=2&amp;day=8&amp;year=2016">Mon, Feb 8, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602080ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="ORL2016-02-08"><a href="/teams/ORL/2016.html">Orlando Magic</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >55</td>
+   <td align="left"  csk="2016-02-10"><a href="/boxscores/index.cgi?month=2&amp;day=10&amp;year=2016">Wed, Feb 10, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602100CHI.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CHI2016-02-10"><a href="/teams/CHI/2016.html">Chicago Bulls</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >56</td>
+   <td align="left"  csk="2016-02-19"><a href="/boxscores/index.cgi?month=2&amp;day=19&amp;year=2016">Fri, Feb 19, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602190ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MIA2016-02-19"><a href="/teams/MIA/2016.html">Miami Heat</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >57</td>
+   <td align="left"  csk="2016-02-20"><a href="/boxscores/index.cgi?month=2&amp;day=20&amp;year=2016">Sat, Feb 20, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602200ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MIL2016-02-20"><a href="/teams/MIL/2016.html">Milwaukee Bucks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >58</td>
+   <td align="left"  csk="2016-02-22"><a href="/boxscores/index.cgi?month=2&amp;day=22&amp;year=2016">Mon, Feb 22, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602220ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="GSW2016-02-22"><a href="/teams/GSW/2016.html">Golden State Warriors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >59</td>
+   <td align="left"  csk="2016-02-26"><a href="/boxscores/index.cgi?month=2&amp;day=26&amp;year=2016">Fri, Feb 26, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602260ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="CHI2016-02-26"><a href="/teams/CHI/2016.html">Chicago Bulls</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >60</td>
+   <td align="left"  csk="2016-02-28"><a href="/boxscores/index.cgi?month=2&amp;day=28&amp;year=2016">Sun, Feb 28, 2016</a></td>
+   <td align="" >3:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201602280ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="CHO2016-02-28"><a href="/teams/CHO/2016.html">Charlotte Hornets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="g" align="right"  class=" sort_default_asc"  tip="Games">G</th>
+  <th data-stat="date_game" align="left"  class=" sort_default_asc" >Date</th>
+  <th data-stat="game_start_time" align="CENTER"  class="" ></th>
+  <th data-stat="network" align="CENTER"  class="" ></th>
+  <th data-stat="box_score_text" align="center"  class=" sort_default_asc" ></th>
+  <th data-stat="game_location" align="center"  class="" ></th>
+  <th data-stat="opp_name" align="left"  class=" sort_default_asc" >Opponent</th>
+  <th data-stat="game_result" align="center"  class="" ></th>
+  <th data-stat="overtimes" align="center"  class="" ></th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">Tm</th>
+  <th data-stat="opp_pts" align="right"  class=""  tip="Opponent Points">Opp</th>
+  <th data-stat="wins" align="right"  class=""  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class=""  tip="Losses">L</th>
+  <th data-stat="game_streak" align="left"  class="" >Streak</th>
+  <th data-stat="game_remarks" align="left"  class=" sort_default_asc show_partial_when_sorting" >Notes</th>
+</tr>
+<tr  class="">
+   <td align="right" >61</td>
+   <td align="left"  csk="2016-03-01"><a href="/boxscores/index.cgi?month=3&amp;day=1&amp;year=2016">Tue, Mar 1, 2016</a></td>
+   <td align="" >10:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603010GSW.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="GSW2016-03-01"><a href="/teams/GSW/2016.html">Golden State Warriors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >62</td>
+   <td align="left"  csk="2016-03-04"><a href="/boxscores/index.cgi?month=3&amp;day=4&amp;year=2016">Fri, Mar 4, 2016</a></td>
+   <td align="" >10:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603040LAL.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="LAL2016-03-04"><a href="/teams/LAL/2016.html">Los Angeles Lakers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >63</td>
+   <td align="left"  csk="2016-03-05"><a href="/boxscores/index.cgi?month=3&amp;day=5&amp;year=2016">Sat, Mar 5, 2016</a></td>
+   <td align="" >10:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603050LAC.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="LAC2016-03-05"><a href="/teams/LAC/2016.html">Los Angeles Clippers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >64</td>
+   <td align="left"  csk="2016-03-08"><a href="/boxscores/index.cgi?month=3&amp;day=8&amp;year=2016">Tue, Mar 8, 2016</a></td>
+   <td align="" >9:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603080UTA.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="UTA2016-03-08"><a href="/teams/UTA/2016.html">Utah Jazz</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >65</td>
+   <td align="left"  csk="2016-03-10"><a href="/boxscores/index.cgi?month=3&amp;day=10&amp;year=2016">Thu, Mar 10, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603100TOR.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="TOR2016-03-10"><a href="/teams/TOR/2016.html">Toronto Raptors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >66</td>
+   <td align="left"  csk="2016-03-12"><a href="/boxscores/index.cgi?month=3&amp;day=12&amp;year=2016">Sat, Mar 12, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603120ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MEM2016-03-12"><a href="/teams/MEM/2016.html">Memphis Grizzlies</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >67</td>
+   <td align="left"  csk="2016-03-13"><a href="/boxscores/index.cgi?month=3&amp;day=13&amp;year=2016">Sun, Mar 13, 2016</a></td>
+   <td align="" >6:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603130ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="IND2016-03-13"><a href="/teams/IND/2016.html">Indiana Pacers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >68</td>
+   <td align="left"  csk="2016-03-16"><a href="/boxscores/index.cgi?month=3&amp;day=16&amp;year=2016">Wed, Mar 16, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603160DET.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="DET2016-03-16"><a href="/teams/DET/2016.html">Detroit Pistons</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >69</td>
+   <td align="left"  csk="2016-03-17"><a href="/boxscores/index.cgi?month=3&amp;day=17&amp;year=2016">Thu, Mar 17, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603170ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="DEN2016-03-17"><a href="/teams/DEN/2016.html">Denver Nuggets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >70</td>
+   <td align="left"  csk="2016-03-19"><a href="/boxscores/index.cgi?month=3&amp;day=19&amp;year=2016">Sat, Mar 19, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603190ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="HOU2016-03-19"><a href="/teams/HOU/2016.html">Houston Rockets</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >71</td>
+   <td align="left"  csk="2016-03-21"><a href="/boxscores/index.cgi?month=3&amp;day=21&amp;year=2016">Mon, Mar 21, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603210ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="WAS2016-03-21"><a href="/teams/WAS/2016.html">Washington Wizards</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >72</td>
+   <td align="left"  csk="2016-03-23"><a href="/boxscores/index.cgi?month=3&amp;day=23&amp;year=2016">Wed, Mar 23, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603230WAS.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="WAS2016-03-23"><a href="/teams/WAS/2016.html">Washington Wizards</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >73</td>
+   <td align="left"  csk="2016-03-25"><a href="/boxscores/index.cgi?month=3&amp;day=25&amp;year=2016">Fri, Mar 25, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603250ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="MIL2016-03-25"><a href="/teams/MIL/2016.html">Milwaukee Bucks</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >74</td>
+   <td align="left"  csk="2016-03-26"><a href="/boxscores/index.cgi?month=3&amp;day=26&amp;year=2016">Sat, Mar 26, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603260DET.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="DET2016-03-26"><a href="/teams/DET/2016.html">Detroit Pistons</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >75</td>
+   <td align="left"  csk="2016-03-28"><a href="/boxscores/index.cgi?month=3&amp;day=28&amp;year=2016">Mon, Mar 28, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603280CHI.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CHI2016-03-28"><a href="/teams/CHI/2016.html">Chicago Bulls</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >76</td>
+   <td align="left"  csk="2016-03-30"><a href="/boxscores/index.cgi?month=3&amp;day=30&amp;year=2016">Wed, Mar 30, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201603300TOR.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="TOR2016-03-30"><a href="/teams/TOR/2016.html">Toronto Raptors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >77</td>
+   <td align="left"  csk="2016-04-01"><a href="/boxscores/index.cgi?month=4&amp;day=1&amp;year=2016">Fri, Apr 1, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604010ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="CLE2016-04-01"><a href="/teams/CLE/2016.html">Cleveland Cavaliers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >78</td>
+   <td align="left"  csk="2016-04-05"><a href="/boxscores/index.cgi?month=4&amp;day=5&amp;year=2016">Tue, Apr 5, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604050ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="PHO2016-04-05"><a href="/teams/PHO/2016.html">Phoenix Suns</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >79</td>
+   <td align="left"  csk="2016-04-07"><a href="/boxscores/index.cgi?month=4&amp;day=7&amp;year=2016">Thu, Apr 7, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604070ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="TOR2016-04-07"><a href="/teams/TOR/2016.html">Toronto Raptors</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >80</td>
+   <td align="left"  csk="2016-04-09"><a href="/boxscores/index.cgi?month=4&amp;day=9&amp;year=2016">Sat, Apr 9, 2016</a></td>
+   <td align="" >7:30p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604090ATL.html"></a></td>
+   <td align="center" ></td>
+   <td align="left"  csk="BOS2016-04-09"><a href="/teams/BOS/2016.html">Boston Celtics</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="g" align="right"  class=" sort_default_asc"  tip="Games">G</th>
+  <th data-stat="date_game" align="left"  class=" sort_default_asc" >Date</th>
+  <th data-stat="game_start_time" align="CENTER"  class="" ></th>
+  <th data-stat="network" align="CENTER"  class="" ></th>
+  <th data-stat="box_score_text" align="center"  class=" sort_default_asc" ></th>
+  <th data-stat="game_location" align="center"  class="" ></th>
+  <th data-stat="opp_name" align="left"  class=" sort_default_asc" >Opponent</th>
+  <th data-stat="game_result" align="center"  class="" ></th>
+  <th data-stat="overtimes" align="center"  class="" ></th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">Tm</th>
+  <th data-stat="opp_pts" align="right"  class=""  tip="Opponent Points">Opp</th>
+  <th data-stat="wins" align="right"  class=""  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class=""  tip="Losses">L</th>
+  <th data-stat="game_streak" align="left"  class="" >Streak</th>
+  <th data-stat="game_remarks" align="left"  class=" sort_default_asc show_partial_when_sorting" >Notes</th>
+</tr>
+<tr  class="">
+   <td align="right" >81</td>
+   <td align="left"  csk="2016-04-11"><a href="/boxscores/index.cgi?month=4&amp;day=11&amp;year=2016">Mon, Apr 11, 2016</a></td>
+   <td align="" >7:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604110CLE.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="CLE2016-04-11"><a href="/teams/CLE/2016.html">Cleveland Cavaliers</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+<tr  class="">
+   <td align="right" >82</td>
+   <td align="left"  csk="2016-04-13"><a href="/boxscores/index.cgi?month=4&amp;day=13&amp;year=2016">Wed, Apr 13, 2016</a></td>
+   <td align="" >8:00p <span style='font-size:7px;vertical-align:baseline;'>EST</span></td>
+   <td align="" ></td>
+   <td align="center" ><a href="/boxscores/201604130WAS.html"></a></td>
+   <td align="center" >@</td>
+   <td align="left"  csk="WAS2016-04-13"><a href="/teams/WAS/2016.html">Washington Wizards</a></td>
+   <td align="center" ></td>
+   <td align="center" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="right" ></td>
+   <td align="left" ></td>
+   <td align="left" ></td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+</div><!--close .stw-->
+<div class="stw" id="all_schedule">
+</div><!--close .stw-->
+</div>
+<!-- SR js files --><div id=sr_js></div><script type="text/javascript">
+(function () {var sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-475/sr-bbr-min.js';if (sr_gzipEnabled) {sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-475/sr-bbr-min.js.jgz';}var sr_script_tag = document.getElementById("sr_js");if (sr_script_tag) {var sr_script = document.createElement("script");sr_script.type = "text/javascript";sr_script.charset = "utf-8";sr_script.src = sr_js_file;sr_script_tag.appendChild(sr_script);}}());</script><!-- Google Analytics --><script>
+var sr_cookie = document.cookie;
+String.prototype.sr_isMatch = function(s){
+ return this.match(s)!==null
+}
+function getCookie(name) {
+ var prefix = name + "=";
+ var begin = sr_cookie.indexOf("; " + prefix);
+ if (begin == -1) {
+ begin = sr_cookie.indexOf(prefix);
+ if (begin != 0) return null;
+ }
+ else
+ {
+ begin += 2;
+ var end = document.cookie.indexOf(";", begin);
+ if (end == -1) {
+ end = sr_cookie.length;
+ }
+ }
+ return unescape(sr_cookie.substring(begin + prefix.length, end));
+}
+var sr_cookie = getCookie('SR_user') || '';
+var sr_is_ad_free = sr_cookie.sr_isMatch('Z6SON8tTdJid');
+var sr_is_user = sr_cookie !== null && sr_cookie !== '';
+var sr_seen_modal = getCookie('modal_ad') !== null;
+(function(i,s,o,g,r,a,m){
+ i['GoogleAnalyticsObject']=r;
+ i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+ a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+ a.async=1;
+ a.src=g;
+ m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1890630-2', 'auto');
+ga('require', 'linkid', 'linkid.js');
+ga('require', 'ecommerce', 'ecommerce.js');
+ga('send', 'pageview');
+var trackOutboundLink = function(el, url) {
+ ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+ function () {
+ if (el.target == '_blank') {
+ return true;
+ } else {
+ setTimeout(function() { document.location = url; }, 50);
+ return false;
+ }
+ }
+ });
+}
+/**
+ * Manual callback handler
+ * false == no scroll to track from previous page
+ */
+// The SR overall account.
+ga('create', 'UA-1890630-9', 'auto', {'name': 'sr_tracker', 'allowLinker': true });  // New tracker.
+ga('sr_tracker.require', 'displayfeatures');
+ga('sr_tracker.set', 'dimension1','bbr');
+ga('sr_tracker.set', 'dimension2',sr_is_ad_free);
+ga('sr_tracker.set', 'dimension3',sr_is_user);
+ga('sr_tracker.set', 'dimension4',sr_seen_modal);
+ga('sr_tracker.send', 'pageview');
+var linker;
+// Cross browser way to listen for events.
+function addListener(element, type, callback) {
+ if (element.addEventListener) element.addEventListener(type, callback);
+ else if (element.attachEvent) element.attachEvent('on' + type, callback);
+}
+var sr_links = document.getElementsByClassName("sr_link");
+Array.prototype.forEach.call(sr_links, function(el) {
+ // Do stuff with the element
+ addListener(el, 'mousedown', decorateMe);
+ addListener(el, 'keydown',   decorateMe);
+});
+function decorateMe(event) {
+ event = event || window.event;                            // Cross browser hoops.
+ var target = event.target || event.srcElement;
+ if (target && target.href) {                              // Ensure this is a link.
+ ga(function(tracker) {
+ var linker = new window.gaplugins.Linker(tracker);
+ var output = linker.decorate(target);
+ });
+ }
+}
+</script><!-- End Google Analytics --><!-- Facebook, and plus one pixels and buttons --><script type="text/javascript">
+function sr_fire_buttons () {if (document.getElementById('sr_suppress_ads')) { return false; }// Facebook ///////////////////////////////////////////////
+window.fbAsyncInit = function() {FB.init({appId: '154659497934788', status: true, cookie: true, xfbml: true, channelUrl  : 'http://www.basketball-reference.com/inc/channel.php'});// track likes.
+FB.Event.subscribe('edge.create', function(targetUrl) {ga('send', 'social', 'facebook', 'like', targetUrl);});};var fb_root = document.getElementById('fb-root');if (fb_root)
+{var e = document.createElement('script');e.type = 'text/javascript';e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';e.async = true;fb_root.appendChild(e);}// plusone ///////////////////////////////////////////////
+var tag = document.createElement('script');tag.type = 'text/javascript';tag.async = true;tag.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(tag, s);}</script><script type="text/javascript">
+setTimeout(function(){sr_fire_buttons();  }, 0);</script><script src="http://network.yardbarker.com/network/ybn_pixel/12488" type="text/javascript"></script><script type="text/javascript">
+(function () {if (document.getElementById('sr_suppress_ads')) { return false; }// Adiply rails ads
+var scr = document.createElement("script");scr.setAttribute('async', 'true');scr.type = "text/javascript";scr.src = "http://ad.adip.ly/dlvr/adiply_statmarg.min.js?site_id=SportsReference_AP&t=120";((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);}());</script>
+
+
+
+
+<script src="http://static.bbref.com/js/ads.js"></script>
+<script type="text/javascript">
+  if (typeof sr_test == 'undefined') {
+     document.write('<img class="hidden" src="http://static.spref.com/x.gif?obscured">');
+  } else {
+    document.write('<img class="hidden" src="http://static.spref.com/x.gif?seen">');
+  }
+</script>
+
+
+
+
+
+<div id="site_footer">
+<div id="taboola-below-article-thumbnails"></div>
+<style type="text/css">#sr_pagebottom * { margin: 0px auto }</style>
+<script type="text/javascript">
+if ((/play-index/.test(location.pathname)) ||
+   (document.getElementById('sr_suppress_ads')))
+{
+}
+else if (location.pathname != '/') {
+   var choice = Math.random();
+   var company = '';
+   if (choice <= 0.10) {
+       !function (e, f, u) {
+       e.src = u;
+       f.parentNode.insertBefore(e, f);
+       }(document.createElement('script'),
+     document.getElementById('taboola-below-article-thumbnails'),
+     'http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
+
+       (adsbygoogle = window.adsbygoogle || []).push({});
+
+       //googletag.cmd.push(function() {
+       // googletag.defineSlot('/117033896/sr_pagebottom', [[970, 90],[728, 90]], 'sr_pagebottom').addService(googletag.pubads());
+       // googletag.pubads().set("adsense_channel_ids", "5516762052");
+       // googletag.enableServices();
+       // });
+       company = 'google';
+   } else {
+       // taboola
+       window._taboola = window._taboola || [];
+       _taboola.push({article:'auto'});
+       !function (e, f, u) {
+       e.async = 1;
+       e.src = u;
+       f.parentNode.insertBefore(e, f);
+       }(document.createElement('script'),
+     document.getElementsByTagName('script')[0],
+     'http://cdn.taboola.com/libtrc/sportsreference-network/loader.js');
+       
+       _taboola.push({
+           mode: 'thumbnails-b',
+           container: 'taboola-below-article-thumbnails',
+           placement: 'Below Article Thumbnails',
+           target_type: 'mix'
+           });
+       _taboola.push({flush: true});
+       company = 'taboola';
+   }
+
+   //document.write('<div class="xx_small_text">choice: '+choice+':'+company+'</div>');
+
+}
+else {
+    // for the front page.
+   googletag.cmd.push(function() {
+      googletag.defineSlot('/5702/yb_Sports_Reference', [728,90], 'sr_pagebottom').addService(googletag.pubads());
+      googletag.enableServices();
+  });
+}
+</script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-5319453360923253"
+     data-ad-slot="5975682851"></ins>
+
+<!-- sr_pagebottom -->
+<div id="sr_pagebottom" style="width:970px; height:90px;" class="margin_bottom">
+
+<script type="text/javascript">
+if ((/play-index/.test(location.pathname)) ||
+   (document.getElementById('sr_suppress_ads')))
+{
+}
+else if (location.pathname == '/') {
+   googletag.cmd.push(function() { googletag.display('sr_pagebottom'); });
+}
+</script>
+</div>
+
+
+<div id="sr_footer" class="margin_top">
+Copyright &copy; 2000-2015 <a href="http://www.sports-reference.com">Sports
+Reference LLC</a>. All rights reserved.
+
+<form class="inline margin_left" method="get" name="f_footer" action="/search/search.fcgi">
+<input x-webkit-speech type="text" id="search_footer" name="search" class="search long"> 
+<input type="submit" value="Search" class="submit">
+</form>
+
+<div class="margin_top large_text"><a href="http://www.sports-reference.com/feedback/">Question, Comment, Feedback or Correction?</a></div>
+
+<div class="margin_top">Tools: <a href="/linker/">Automatic Player Linker</a>&nbsp;|&nbsp;<a
+href="/friv/linkify.cgi">Basic Player Linker</a></div>
+
+<div class="center margin_top">
+<p>Current season data provided by SportsDirect Inc.</p>
+<a href="http://sportsdirectinc.com" rel="nofollow"><img src="http://d2ft4b0ve1aur1.cloudfront.net/images-436/sports-direct-275x35.png"></a>
+</div>
+
+<div class="blockquote clear_both margin_top">
+The NBA identifications are used with the permission of NBA Properties, Inc.
+</div>
+
+
+
+
+<div class="blockquote clear_both margin_top">
+<a href="http://www.sports-reference.com/">A Sports Reference Site</a>:
+<a href="/about/">About BBR</a>&nbsp;|
+<a href="http://www.sports-reference.com/privacy.shtml">Privacy Statement</a>&nbsp;|
+<a href="http://www.sports-reference.com/termsofuse.shtml">Conditions &amp; Terms of Service</a> | 
+<a href="http://www.sports-reference.com/data_use.shtml">Use of Data</a>
+</div>
+<div class="clear_both align_center large_text bold_text margin">Part of the <a rel="nofollow" href="http://www.foxsports.com/"><img alt="Fox Sports Engage Network" align="top" border="0" width="300" src="http://d3k2oh6evki4b7.cloudfront.net/images-012/engage.gif" height="33"></a> Network</div>
+</div><!-- div#sr_footer -->
+</div><!-- div#site_footer -->
+
+
+</div><!-- div#page_container -->
+
+</body><!-- SR -->
+</html>

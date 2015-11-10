@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.jasonfaas.aws.helloworld.client</groupId>
-  <artifactId>helloworld-client</artifactId>
+  <groupId>net.jasonfaas.aws.nba.team.elo</groupId>
+  <artifactId>nba-team-elo</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>helloworld-client</name>
+  <name>nba-team-elo</name>
   <url>http://maven.apache.org</url>
 
   <properties>

@@ -1,4 +1,4 @@
-package net.jasonfaas.aws.helloworld.client;
+package net.jasonfaas.aws.nba.team.elo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

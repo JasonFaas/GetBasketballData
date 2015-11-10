@@ -1,4 +1,4 @@
-package net.jasonfaas.aws.helloworld.client.utility;
+package net.jasonfaas.aws.nba.team.elo.utility;
 
 import java.io.*;
 
