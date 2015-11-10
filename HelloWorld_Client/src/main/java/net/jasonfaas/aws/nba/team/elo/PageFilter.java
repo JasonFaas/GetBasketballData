@@ -14,11 +14,7 @@ public class PageFilter {
         for (String piece:record.split("\n")) {
             List<String> split = new ArrayList(Arrays.asList(piece.split(",")));
 
-            for (String smallPiece:  split) {
-                System.out.println(smallPiece);
-            }
             if (split.get(7).length() > 0) {
-                System.out.println("what:" + split.get(7));
                 finalRecord.append(split.get(0));
                 finalRecord.append(",");
                 finalRecord.append(split.get(1).substring(split.get(1).indexOf(">") + 1));
@@ -29,9 +25,6 @@ public class PageFilter {
                 finalRecord.append(",");
                 finalRecord.append(split.get(10));
                 finalRecord.append("\n");
-            }
-            for (String smallPiece:  split) {
-                System.out.println(smallPiece);
             }
         }
         return finalRecord;
@@ -83,7 +76,7 @@ public class PageFilter {
         return noHTMLString;
     }
 
-    static List<String> filterTeamResultsForTitleAnd82Games(String noHTMLString) {
+    public List<String> filterTeamResultsForTitleAnd82Games(String noHTMLString) {
 
         List<String> strings = new ArrayList(Arrays.asList(noHTMLString.split("\n")));
         assert 82 + 82/20 + 1 == strings.size();
@@ -100,12 +93,9 @@ public class PageFilter {
     }
 
     public String getFilterRecordFromFullPage(String clientCall) {
-        String noHTMLString = tableOfStatsFromEntirePage(clientCall);
-
-        System.out.println("ABCD:"+noHTMLString);
-        noHTMLString = removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(noHTMLString);
-        System.out.println("EFGH:"+noHTMLString);
-        List<String> strings = filterTeamResultsForTitleAnd82Games(noHTMLString);
+        String tableOfStats = tableOfStatsFromEntirePage(clientCall);
+        String removeNewLinesForCsvPrep = removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(tableOfStats);
+        List<String> strings = filterTeamResultsForTitleAnd82Games(removeNewLinesForCsvPrep);
         List<String> removedStrings = removeDuplicatesAndOriginal(strings);
         assert 1 == removedStrings.size();
         assert 82 == strings.size();
@@ -114,13 +104,10 @@ public class PageFilter {
 
         StringBuilder finalRecord = getInfoFromSingleGame(record);
 
-
-        System.out.println(finalRecord);
         String s1 = finalRecord.toString().replaceAll(" ", "_");
         assert s1.contains("7,2015-11-06,New_Orleans_Pelicans,121,115");
 
         String s = removedStrings.get(0);
-        System.out.println("Whatthat:"+s);
         String replace = s.replace("<tr class=\"no_ranker thead\">,", "");
         String actual = replace.replaceAll(",,,,,", ",");
         actual = actual.replaceAll(",,,", ",");
