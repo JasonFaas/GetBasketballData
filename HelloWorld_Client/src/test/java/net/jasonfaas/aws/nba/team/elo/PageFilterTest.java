@@ -5,7 +5,19 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class TeamRecordFilterTest {
+public class PageFilterTest {
+
+    @Test
+    public void testFilterFullTeamPageForBoxTeamRecord() throws Exception {
+
+        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full").toString();
+        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box").toString();
+
+        String actual = new PageFilter().tableOfStatsFromEntirePage(clientCall);
+
+        Assert.assertEquals(expected, actual);
+
+    }
 
     @Test
     public void testFilterRecordFromFull() throws Exception {
@@ -21,7 +33,10 @@ public class TeamRecordFilterTest {
                 "6,2015-11-04,Brooklyn_Nets,101,87\n" +
                 "7,2015-11-06,New_Orleans_Pelicans,121,115\n" +
                 "8,2015-11-07,Washington_Wizards,114,99\n";
-        Assert.assertEquals(expected, TeamRecordFilter.getFilterRecordFromFullPage(clientCall));
+
+        String filterRecordFromFullPage = new PageFilter().getFilterRecordFromFullPage(clientCall);
+
+        Assert.assertEquals(expected, filterRecordFromFullPage);
     }
 
 }

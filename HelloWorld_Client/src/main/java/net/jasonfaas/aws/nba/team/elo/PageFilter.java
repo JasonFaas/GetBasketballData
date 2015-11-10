@@ -7,9 +7,9 @@ import java.util.List;
 /**
  * Created by jasonfaas on 11/9/15.
  */
-public class TeamRecordFilter {
+public class PageFilter {
 
-    static StringBuilder getInfoFromSingleGame(String record) {
+    public StringBuilder getInfoFromSingleGame(String record) {
         StringBuilder finalRecord = new StringBuilder();
         for (String piece:record.split("\n")) {
             List<String> split = new ArrayList(Arrays.asList(piece.split(",")));
@@ -37,7 +37,7 @@ public class TeamRecordFilter {
         return finalRecord;
     }
 
-    static String removeUnwantedData(List<String> strings) {
+    public String removeUnwantedData(List<String> strings) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < strings.size(); i++) {
             sb.append(DateStructure.convertDate(strings.get(i)));
@@ -46,7 +46,7 @@ public class TeamRecordFilter {
         return sb.toString();
     }
 
-    static List<String> removeDuplicatesAndOriginal(List<String> strings) {
+    public List<String> removeDuplicatesAndOriginal(List<String> strings) {
         ArrayList<String> duplicateStrings = new ArrayList<String>();
         for (int startVal = 0; startVal < strings.size(); startVal++) {
             String startListItem = strings.get(startVal);
@@ -66,12 +66,16 @@ public class TeamRecordFilter {
         return duplicateStrings;
     }
 
-    static String filterEntirePageForTeamResults(String clientCall) {
+    public String tableOfStatsFromEntirePage(String clientCall) {
         int beginIndex = clientCall.indexOf("<tr class=\"\">", clientCall.indexOf("<h2 data-mobile-header=\"\" style=\"\">Regular Season</h2>"));
         int endIndex = clientCall.indexOf("</tr>", clientCall.indexOf("<td align=\"right\" >82</td>")) + 6;
-        String boxOfStats = clientCall.substring(beginIndex, endIndex);
-        String noHTMLString = boxOfStats.replaceAll("\\<th.*?\\>", "");
-        noHTMLString = noHTMLString.replaceAll("\\</?td.*?\\>", "");
+        String tableOfStats = clientCall.substring(beginIndex, endIndex);
+        return tableOfStats;
+    }
+
+    private String extraStuff(String boxOfStats) {
+        String noHTMLString = boxOfStats.replaceAll("<th.*?>", "");
+        noHTMLString = noHTMLString.replaceAll("</?td.*?>", "");
         noHTMLString = noHTMLString.replaceAll("</thead>\n" + "<tbody>\n", "");
         noHTMLString = noHTMLString.replace("\n  ", ",");
         noHTMLString = noHTMLString.replace("</th>", "");
@@ -86,7 +90,7 @@ public class TeamRecordFilter {
         return strings;
     }
 
-    public static String removeExtraWhiteSpaceAndHtmlTags(List<String> strings) {
+    public String removeExtraWhiteSpaceAndHtmlTags(List<String> strings) {
         return removeUnwantedData(strings)
                 .replaceAll(", ", ",")
                 .replaceAll(" ,", ",")
@@ -94,8 +98,10 @@ public class TeamRecordFilter {
                 .replaceAll("</a>", "");
     }
 
-    static String getFilterRecordFromFullPage(String clientCall) {
-        String noHTMLString = filterEntirePageForTeamResults(clientCall);
+    public String getFilterRecordFromFullPage(String clientCall) {
+        String noHTMLString = tableOfStatsFromEntirePage(clientCall);
+
+        noHTMLString = extraStuff(noHTMLString);
         List<String> strings = filterTeamResultsForTitleAnd82Games(noHTMLString);
         List<String> removedStrings = removeDuplicatesAndOriginal(strings);
         assert 1 == removedStrings.size();
