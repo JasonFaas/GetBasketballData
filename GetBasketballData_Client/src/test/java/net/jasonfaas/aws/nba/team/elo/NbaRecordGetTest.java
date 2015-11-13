@@ -22,12 +22,13 @@ public class NbaRecordGetTest {
         String fullFileName = null;
 
         for (NbaTeamInfo nbaTeam:NbaTeamInfo.values()) {
-            System.out.println(nbaTeam.getBrUrl());
 
             String team = nbaTeam.getBrUrl();
-            path = "/teams/" + team + "/2016_games.html";
-            csvFileName = "src/main/resources/" + team + "_Scores_2015-16.csv";
-            fullFileName = "src/main/resources/" + team + "_Scores_2015-16_Full.txt";
+            path = "teams/" + team + "/2016_games.html";
+            csvFileName = "temp/" + team + "_Scores_2015-16.csv";
+            fullFileName = "temp/" + team + "_Scores_2015-16_Full.txt";
+
+            System.out.println(nbaTeam.getBrUrl() + "-" + domain + path);
 
             if (new File(csvFileName).exists()) {
                 System.out.println("\tSkip");

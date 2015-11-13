@@ -9,7 +9,8 @@ public class PageFilter {
 
     public String tableOfStatsFromEntirePage(String clientCall) {
         int beginIndex = clientCall.indexOf("<tr class=\"\">", clientCall.indexOf("<h2 data-mobile-header=\"\" style=\"\">Regular Season</h2>"));
-        int endIndex = clientCall.indexOf("</tr>", clientCall.indexOf("<td align=\"right\" >82</td>")) + "</tr>".length() + 1;
+        String eightySecondGameNotation = "<tr  class=\"\">\n" + "   <td align=\"right\" >82</td>";
+        int endIndex = clientCall.indexOf("</tr>", clientCall.indexOf(eightySecondGameNotation)) + "</tr>".length() + 1;
         String tableOfStats = clientCall.substring(beginIndex, endIndex);
         return tableOfStats;
     }
