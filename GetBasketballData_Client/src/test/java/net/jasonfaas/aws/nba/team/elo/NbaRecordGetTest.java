@@ -6,22 +6,39 @@ import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class NbaRecordGetTest {
 
     @Ignore
     @Test
     public void testGetRecordsFromInternet() throws Exception {
-        String url = "http://www.basketball-reference.com/";
-        String mainPart = "/teams/ATL/2016_games.html";
-        String clientCall = new NetClientGet().getClientCall(url + mainPart);
+        String domain = "http://www.basketball-reference.com/";
+        String path = null;
+        String csvFileName = null;
+        String fullFileName = null;
 
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Full_test_v2.txt", clientCall);
+        for (NbaTeamInfo nbaTeam:NbaTeamInfo.values()) {
+            System.out.println(nbaTeam.getBrUrl());
 
-        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Record_In_Csv.txt").toString();
+            String team = nbaTeam.getBrUrl();
+            path = "/teams/" + team + "/2016_games.html";
+            csvFileName = "src/main/resources/" + team + "_Scores_2015-16.csv";
+            fullFileName = "src/main/resources/" + team + "_Scores_2015-16_Full.txt";
 
-        String filterRecordFromFullPage = new PageFilter().getFilterRecordFromFullPage(clientCall);
+            if (new File(csvFileName).exists()) {
+                System.out.println("\tSkip");
+            } else {
+                String clientCall = new NetClientGet().getClientCall(domain + path);
 
-        Assert.assertEquals(expected, filterRecordFromFullPage);
+                FileReaderAndWriter.writeToFile(fullFileName, clientCall);
+
+                String filterRecordFromFullPage = new PageFilter().getFilterRecordFromFullPage(clientCall);
+                FileReaderAndWriter.writeToFile(csvFileName, filterRecordFromFullPage);
+            }
+        }
     }
 }
