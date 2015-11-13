@@ -19,6 +19,25 @@ public class AllFilterTest {
     }
 
     @Test
+    public void testFilterRecordFromStepByStepFull() throws Exception {
+        String filterRecordFromFullPage = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full.txt").toString();
+
+        String expectedBox = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box.txt").toString();
+        String expectedBoxFiltered = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box_Filtered.txt").toString();
+        String expectedCsv = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Record_In_Csv.txt").toString();
+
+        String actualBox = new PageFilter().tableOfStatsFromEntirePage(filterRecordFromFullPage);
+        Assert.assertEquals(expectedBox, actualBox);
+
+        String actualBoxFiltered = new PageFilter().removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(actualBox);
+        Assert.assertEquals(expectedBoxFiltered, actualBoxFiltered);
+
+
+        String actualCsv = new NbaScheduleBoxFilter().refactorThisBigThing(actualBoxFiltered);
+        Assert.assertEquals(expectedCsv, actualCsv);
+    }
+
+    @Test
     public void testFilterFullTeamPageForBoxTeamRecord() throws Exception {
 
         String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full.txt").toString();
