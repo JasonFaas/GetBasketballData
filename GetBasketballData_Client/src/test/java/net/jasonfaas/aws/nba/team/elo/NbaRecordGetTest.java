@@ -1,6 +1,7 @@
 package net.jasonfaas.aws.nba.team.elo;
 
 import net.jasonfaas.aws.nba.team.elo.utility.FileReaderAndWriter;
+import net.jasonfaas.aws.nba.team.elo.utility.NetClientGet;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

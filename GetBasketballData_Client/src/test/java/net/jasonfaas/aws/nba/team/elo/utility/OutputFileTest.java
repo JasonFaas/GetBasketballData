@@ -1,4 +1,4 @@
-package net.jasonfaas.aws.nba.team.elo;
+package net.jasonfaas.aws.nba.team.elo.utility;
 
 import net.jasonfaas.aws.nba.team.elo.utility.FileReaderAndWriter;
 import org.junit.Assert;
