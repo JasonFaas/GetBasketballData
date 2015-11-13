@@ -10,19 +10,17 @@ public class PageFilterTest {
     @Test
     public void testFilterFullTeamPageForBoxTeamRecord() throws Exception {
 
-        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full").toString();
-        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box").toString();
+        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full.txt").toString();
+        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box.txt").toString();
 
         String actual = new PageFilter().tableOfStatsFromEntirePage(clientCall);
 
         Assert.assertEquals(expected, actual);
-
     }
 
     @Test
     public void testFilterRecordFromFull() throws Exception {
-        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full").toString();
-
+        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full.txt").toString();
 
         String expected = "G,Date,Opponent,Tm,Opp\n" +
                 "1,2015-10-27,Detroit_Pistons,94,106\n" +

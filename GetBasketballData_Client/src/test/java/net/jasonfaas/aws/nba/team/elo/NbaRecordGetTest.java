@@ -28,9 +28,9 @@ public class NbaRecordGetTest {
         noHTMLString = noHTMLString.replaceAll("</thead>\n" + "<tbody>\n", "");
         System.out.println(noHTMLString);
 
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Full", clientCall);
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box", boxOfStats);
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box_Filtered", noHTMLString);
+        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Full.txt", clientCall);
+        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box.txt", boxOfStats);
+        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box_Filtered.txt", noHTMLString);
 
         Assert.assertTrue(clientCall.contains("Hello Servlet"));
 

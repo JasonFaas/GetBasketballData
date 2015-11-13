@@ -11,15 +11,15 @@ import static org.junit.Assert.*;
 public class DateStructureTest {
 
     @Test
-    public void testDateChangerFromTheirsToStandars() throws Exception {
-        String theirs = "<>Tue, Oct 2, 2015<>";
-        String standard = "<>2015-10-02<>";
+    public void testDateChangerFromTheirsToStandards() throws Exception {
+        String theirs = "Tue, Oct 2, 2015";
+        String standard = "2015-10-02";
 
         Assert.assertEquals(standard, DateStructure.convertDate(theirs));
     }
 
     @Test
-    public void testDateChangerFromTheirsToStandardsWith2DigitDay() throws Exception {
+    public void testDateChangerFromTheirsToStandardsWith2DigitDayAndExtraText() throws Exception {
         String theirs = "toherstuffTue, Nov 22, 2015what is this";
         String standard = "toherstuff2015-11-22what is this";
 
