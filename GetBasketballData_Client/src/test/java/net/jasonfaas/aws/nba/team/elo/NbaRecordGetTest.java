@@ -12,28 +12,16 @@ public class NbaRecordGetTest {
     @Ignore
     @Test
     public void testGetRecordsFromInternet() throws Exception {
-//        String url = "http://localhost:8080";
-//        String url = "http://default-environment-zvvmdifi8c.elasticbeanstalk.com/";
         String url = "http://www.basketball-reference.com/";
         String mainPart = "/teams/ATL/2016_games.html";
         String clientCall = new NetClientGet().getClientCall(url + mainPart);
 
+        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Full_test_v2.txt", clientCall);
 
-        System.out.println("Filtered .... \n");
-        int beginIndex = clientCall.indexOf("<tr class=\"\">", clientCall.indexOf("<h2 data-mobile-header=\"\" style=\"\">Regular Season</h2>"));
-        int endIndex = clientCall.indexOf("</tr>", clientCall.indexOf("<td align=\"right\" >82</td>")) + 6;
-        String boxOfStats = clientCall.substring(beginIndex, endIndex);
-        System.out.println(boxOfStats);
-        String noHTMLString = boxOfStats.replaceAll("\\<th.*?\\>", "");
-        noHTMLString = noHTMLString.replaceAll("\\</?td.*?\\>", "");
-        noHTMLString = noHTMLString.replaceAll("</thead>\n" + "<tbody>\n", "");
-        System.out.println(noHTMLString);
+        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Record_In_Csv.txt").toString();
 
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Full.txt", clientCall);
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box.txt", boxOfStats);
-        FileReaderAndWriter.writeToFile("AtlScores_2015-16_Box_Filtered.txt", noHTMLString);
+        String filterRecordFromFullPage = new PageFilter().getFilterRecordFromFullPage(clientCall);
 
-        Assert.assertTrue(clientCall.contains("Hello Servlet"));
-
+        Assert.assertEquals(expected, filterRecordFromFullPage);
     }
 }

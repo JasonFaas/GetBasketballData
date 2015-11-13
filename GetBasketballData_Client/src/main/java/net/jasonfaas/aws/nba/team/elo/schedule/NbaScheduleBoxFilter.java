@@ -123,11 +123,12 @@ public class NbaScheduleBoxFilter {
     }
 
     private boolean stuffRename(String[] s1) {
-        Pattern p = Pattern.compile("\\d,\\d{4}-\\d{2}-\\d{2},\\w+,\\d{2,3},\\d{2,3}");
+        Pattern p = Pattern.compile("\\d{1,2},\\d{4}-\\d{2}-\\d{2},\\w+,\\d{2,3},\\d{2,3}");
         Matcher matcher = null;
         for (String gameResultFinalFormat: s1) {
             matcher = p.matcher(gameResultFinalFormat);
             if (!matcher.matches()) {
+                System.out.println("Failed single game csv test:" + gameResultFinalFormat + ":");
                 return false;
             }
         }
