@@ -19,6 +19,17 @@ public class PageFilterTest {
     }
 
     @Test
+    public void testBoxToBoxFilteredForBoxTeamRecord() throws Exception {
+
+        String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box.txt").toString();
+        String expected = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Box_Filtered.txt").toString();
+
+        String actual = new PageFilter().removeAlignmentTagsAndRemoveNewLinesSimilarToTableSetup(clientCall);
+
+        Assert.assertEquals(expected, actual);
+    }
+
+    @Test
     public void testFilterRecordFromFull() throws Exception {
         String clientCall = FileReaderAndWriter.readContentFromFile("src/test/resources/AtlScores_2015-16_Full.txt").toString();
 
